@@ -1,0 +1,33 @@
+#picture{
+		width: 1460px;
+		height:500px;
+		margin-left:  30px;
+		margin-right:  30px;
+		float: left;
+}
+
+#left{
+	width: 700px;
+	height: 100%;
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-left: 0;
+	margin-right:  0px;
+	float: left;
+}
+
+#right{
+	width: 700px;
+	height: 100%;
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-left: 20px;
+	margin-right:  0px;
+	float: right;
+}
+
+
+
+#img{
+	display: block;
+}
